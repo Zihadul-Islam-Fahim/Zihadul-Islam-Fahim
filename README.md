@@ -1,16 +1,30 @@
 ### Hi there 👋
+I am **Zihadul Islam Fahim**. I'm currently working on Mobile Development. As mobile app devleoper I use Flutter which is a framework for cross platform native app development and I really love it.
 
-<!--
-**Zihadul-Islam-Fahim/Zihadul-Islam-Fahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills I have
+* Languages : C, Dart, C#
+* Frameworks : Flutter
+* Database: MySQL,MS SQL Server, Oracle SQL, MongoDB
+* Strong knowledge in RESTful web-services/API
+* Experience with architecture design concepts and techniques and have the ability to communicate and evangelize those concepts to a board-based team
+* Good problem solving skill
+* Proper knowledge of Github
 
-Here are some ideas to get you started:
+## Contact me
+Find me over on the : <a href="fahimzihad@gmail.com">fahimzihad@gmail.com</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="badges">
+  <a href="https://www.facebook.com/FahimXihad/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.facebook.com/FahimXihad/">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="https://www.upwork.com/freelancers/~0175ef297fd7aba1fb">
+    <img src="https://img.shields.io/badge/Upwork-green?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Badge"/>
+  </a>
+</div>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
