@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am **Zihadul Islam Fahim**. I'm currently working on Mobile Development. As mobile app devleoper I use Flutter which is a framework for cross platform native app development and I really love it.
+I am **Zihadul Islam Fahim**. I'm currently working on Mobile Development. As mobile app devleoper I use **Flutter** which is a framework for cross platform native app development and I really love it.
 
 ### Skills I have
 * Languages : C, Dart, C#
@@ -14,7 +14,7 @@ I am **Zihadul Islam Fahim**. I'm currently working on Mobile Development. As mo
 Find me over on the : <a href="fahimzihad@gmail.com">fahimzihad@gmail.com</a>
 
 <div id="badges">
-  <a href="https://www.facebook.com/FahimXihad/">
+  <a href="https://www.linkedin.com/in/zihadul-islam-fahim/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.facebook.com/FahimXihad/">
