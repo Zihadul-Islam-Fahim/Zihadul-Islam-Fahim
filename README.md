@@ -1,5 +1,7 @@
+![Profile views counter](https://komarev.com/ghpvc/?username=Zihadul-Islam-Fahim)
 ### Hi there 👋
 I am **Zihadul Islam Fahim**. I'm currently working on Mobile Development. As mobile app devleoper I use **Flutter** which is a framework for cross platform native app development and I really love it.
+
 
 ### Skills I have
 * Languages : C, Dart, C#
