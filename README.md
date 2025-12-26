@@ -4,7 +4,7 @@ I am **Zihadul Islam Fahim**. I'm currently working on Mobile Development. As mo
 
 
 ### Skills I have
-* Languages : C, Dart, C#
+* Languages : C, C++, Dart, C#
 * Frameworks : Flutter
 * Database: MySQL,MS SQL Server, Oracle SQL, MongoDB
 * Strong knowledge in RESTful web-services/API
